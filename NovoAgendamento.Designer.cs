@@ -237,6 +237,7 @@
             this.Name = "NovoAgendamento";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "NovoAgendamento";
+            this.Load += new System.EventHandler(this.NovoAgendamento_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

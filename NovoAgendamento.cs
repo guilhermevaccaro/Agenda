@@ -160,5 +160,10 @@ namespace ProjetoAgenda
                 e.Handled = true;
             }
         }
+
+        private void NovoAgendamento_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

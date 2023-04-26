@@ -1,0 +1,16 @@
+C:\Users\Guilherme\Desktop\ProjetoAgenda2\ProjetoAgenda\bin\x86\Release\ProjetoAgenda.exe.config
+C:\Users\Guilherme\Desktop\ProjetoAgenda2\ProjetoAgenda\bin\x86\Release\ProjetoAgenda.exe
+C:\Users\Guilherme\Desktop\ProjetoAgenda2\ProjetoAgenda\bin\x86\Release\ProjetoAgenda.pdb
+C:\Users\Guilherme\Desktop\ProjetoAgenda2\ProjetoAgenda\obj\x86\Release\ProjetoAgenda.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\ProjetoAgenda2\ProjetoAgenda\obj\x86\Release\ProjetoAgenda.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guilherme\Desktop\ProjetoAgenda2\ProjetoAgenda\obj\x86\Release\ProjetoAgenda.ConsultaAgenda.resources
+C:\Users\Guilherme\Desktop\ProjetoAgenda2\ProjetoAgenda\obj\x86\Release\ProjetoAgenda.ConsultaClientes.resources
+C:\Users\Guilherme\Desktop\ProjetoAgenda2\ProjetoAgenda\obj\x86\Release\ProjetoAgenda.Inicio.resources
+C:\Users\Guilherme\Desktop\ProjetoAgenda2\ProjetoAgenda\obj\x86\Release\ProjetoAgenda.NovoAgendamento.resources
+C:\Users\Guilherme\Desktop\ProjetoAgenda2\ProjetoAgenda\obj\x86\Release\ProjetoAgenda.NovoCliente.resources
+C:\Users\Guilherme\Desktop\ProjetoAgenda2\ProjetoAgenda\obj\x86\Release\ProjetoAgenda.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\ProjetoAgenda2\ProjetoAgenda\obj\x86\Release\ProjetoAgenda.csproj.GenerateResource.cache
+C:\Users\Guilherme\Desktop\ProjetoAgenda2\ProjetoAgenda\obj\x86\Release\ProjetoAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\ProjetoAgenda2\ProjetoAgenda\obj\x86\Release\ProjetoAgenda.csproj.Fody.CopyLocal.cache
+C:\Users\Guilherme\Desktop\ProjetoAgenda2\ProjetoAgenda\obj\x86\Release\ProjetoAgenda.exe
+C:\Users\Guilherme\Desktop\ProjetoAgenda2\ProjetoAgenda\obj\x86\Release\ProjetoAgenda.pdb
